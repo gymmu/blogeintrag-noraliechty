@@ -18,3 +18,8 @@ body {
 .img-center > img {
   width: 70%;
 }
+
+
+.li-kursiv {
+  font-style: italic ;
+}
