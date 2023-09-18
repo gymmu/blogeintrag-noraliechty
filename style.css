@@ -4,14 +4,9 @@
   box-sizing: content-box;
 }
 
-h1 {
-  background-color: #3e7db4
-  color: black;
-}
-
 body {
   margin: 0;
-  background-color: rgb(159, 191, 219);
+  background-color: rgb(180, 211, 238);
   font-family: sans-serif;
 }
 
@@ -49,5 +44,5 @@ body {
 
 h1, h2, h3 {
   text-align: center;
-  background-color: blueviolet;
+  background-color: rgb(103, 139, 212);
 }
