@@ -23,3 +23,22 @@ body {
 .li-kursiv {
   font-style: italic ;
 }
+
+.text-next-to-img {
+  display: grid;
+  grid-template-columns: 60% auto; 
+  gap: 1rem
+}
+
+.text-next-to-img > .text {
+
+}
+
+.text-next-to-img > .text > ul {
+  margin-top: 0;
+}
+
+.text-next-to-img > img {
+  width: 100%;
+  padding-right: 20px;
+}
