@@ -4,9 +4,14 @@
   box-sizing: content-box;
 }
 
+h1 {
+  background-color: #3e7db4
+  color: black;
+}
+
 body {
   margin: 0;
-  background-color: lightblue;
+  background-color: rgb(159, 191, 219);
   font-family: sans-serif;
 }
 
@@ -26,7 +31,7 @@ body {
 
 .text-next-to-img {
   display: grid;
-  grid-template-columns: 60% auto; 
+  grid-template-columns: 50% auto; 
   gap: 1rem
 }
 
@@ -38,6 +43,11 @@ body {
 }
 
 .text-next-to-img > img {
-  width: 100%;
+  width: 120%;
   padding-right: 20px;
+}
+
+h1, h2, h3 {
+  text-align: center;
+  background-color: blueviolet;
 }
