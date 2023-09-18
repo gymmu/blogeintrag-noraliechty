@@ -10,6 +10,10 @@ body {
   font-family: sans-serif;
 }
 
+h1 {
+  text-decoration: underline;
+}
+
 .img-center {
   text-align: center;
 }
